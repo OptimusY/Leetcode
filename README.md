@@ -1,4 +1,6 @@
 Leetcode
 ========
 
-This is my 
+This is my Leetcode solutions.
+
+- Yan

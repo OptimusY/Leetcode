@@ -1,6 +1,6 @@
 Leetcode
 ========
 
-This is my Leetcode solutions.
+This are my Leetcode solutions.
 
 -Yan
